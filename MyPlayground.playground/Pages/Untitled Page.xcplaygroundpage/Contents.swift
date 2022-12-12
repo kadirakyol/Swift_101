@@ -27,4 +27,6 @@ print("Ürün ADET: \(urun_adet)")
 print("Ürün FİYAT: \(urun_fiyat) USD")
 print("Ürün TEDARİKÇİ \(urun_tedarikci)")
 
+print("\(urun_tedarikci) marka \(urun_ad) \(urun_fiyat) fiyatla satılmaktadır. Stokta \(urun_adet) adet kalmıştır.")
+
 //
