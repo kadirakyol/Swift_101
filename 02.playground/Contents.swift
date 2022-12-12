@@ -1,5 +1,5 @@
 import UIKit
 
-var greeting = "Hello, playground"
+//Örnek 1
 
-// test T
+
