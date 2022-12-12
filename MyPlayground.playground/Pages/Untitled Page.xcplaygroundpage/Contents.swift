@@ -17,13 +17,14 @@ print(ozelSayi)
 
 var urun_id:Int = 3416
 var urun_ad:String = "kol saati"
-var urun_aded:Int = 100
+var urun_adet:Int = 100
 var urun_fiyat:Double = 149.99
 var urun_tedarikci:String = "rolex"
 
-print(urun_id)
-print(urun_ad)
-print(urun_aded)
-print(urun_fiyat)
-print(urun_tedarikci)
+print("Ürün ID: \(urun_id)")
+print("Ürün AD: \(urun_ad)")
+print("Ürün ADET: \(urun_adet)")
+print("Ürün FİYAT: \(urun_fiyat) USD")
+print("Ürün TEDARİKÇİ \(urun_tedarikci)")
 
+//
