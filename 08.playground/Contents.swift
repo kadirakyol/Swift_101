@@ -31,3 +31,10 @@ var hataMesajı = (404 , "Not Found")
 var (kod,mesaj) = hataMesajı
 print(kod)
 print(mesaj)
+
+// iç içe tuples
+
+var ogrenci:(Int, (Bool , String)) = (1256 , (true, "Ahmet"))
+print(ogrenci.0)
+print(ogrenci.1.0)
+print(ogrenci.1.1)
