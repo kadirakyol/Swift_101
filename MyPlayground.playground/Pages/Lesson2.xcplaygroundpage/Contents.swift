@@ -2,6 +2,5 @@
 
 import Foundation
 
-var greeting = "Hello, playground"
-
-//: [Next](@next)
+var ogrenci = 23
+print(<#T##Any...#>, separator: <#T##String#>, terminator: <#T##String#>)
