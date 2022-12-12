@@ -28,7 +28,24 @@ print(str3)
 
 print("\n")
 
-// Metinden sayısala dönüşüm
+// Metinden sayısala dönüşüm ( if - let )
+
+var yazi1 = "34"
+
+if let sayi1 = Int(yazi1) {
+    print(sayi1)
+}
+
+var yazi2 = "34.56"
+if let sayi2 = Double(yazi2) {
+    print(sayi2)
+}
+
+var yazi3 = "48T"   // -T olduğu için if let komutunu bypass eder program hata vermez. O yüzden if let kullanıyoruz.
+if let sayi3 = Int(yazi3) {
+    print(sayi3)
+}
+
 
 
 
