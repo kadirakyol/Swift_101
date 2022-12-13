@@ -4,4 +4,4 @@
 
 #### I created this repo to take my notes and look back in the future while I was developing myself in the Swift programming language.
 
-![alt text] (https://developer.apple.com/swift/images/swift-og.png)
+![swift-og](https://user-images.githubusercontent.com/102226254/207297138-6adca512-2273-421a-afa4-02d4595f066e.png)
