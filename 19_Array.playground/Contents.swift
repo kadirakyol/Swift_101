@@ -1,0 +1,5 @@
+import UIKit
+
+// AYNI TÜR VERİLERİ BİR ARADA TUTAR. ÖRN: STRING ÖRN: INT
+
+
