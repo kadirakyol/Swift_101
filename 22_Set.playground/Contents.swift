@@ -1,4 +1,4 @@
 import UIKit
 
 var test
-var
+var test 2 
