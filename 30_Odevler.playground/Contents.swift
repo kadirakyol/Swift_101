@@ -58,8 +58,6 @@ func ödev4 (harf:Character,kelime:String) {
 
 print("\n********************\n")
 
-// Ödev 5
-
-
+// Ödev 5 - Parametre olarak girilen kenar sayısına göre iç açılar toplamını hesaplayıp soncu geri döndüren metodu yazınız.
 
 
